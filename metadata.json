@@ -1,0 +1,7 @@
+{
+  "name": "BORBOTEO - Gothic Blood Vision",
+  "description": "An elegant gothic experience featuring falling blood drops, artistic typography, and AI-powered image editing fueled by Gemini 2.5 Flash Image.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
